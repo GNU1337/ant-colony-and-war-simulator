@@ -1,0 +1,8 @@
+{
+  "name": "Ant Kingdom Simulator",
+  "description": "En avancerad 2D top-down simulation av myrstackar med autonoma AI-fraktioner, resurshantering och strategisk strid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
